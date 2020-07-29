@@ -1,9 +1,8 @@
-function buildName(firstName) {
-    var restOfName = [];
-    for (var _i = 1; _i < arguments.length; _i++) {
-        restOfName[_i - 1] = arguments[_i];
+function reverse(x) {
+    if (typeof x === 'string') {
+        return x.split('').reverse().join('');
     }
-    return firstName + " and " + restOfName.join(",");
+    if (typeof x === 'number') {
+        return Number(x.toString().split('').reverse().join(''));
+    }
 }
-var employName = buildName('jos', 'mac', 'lucy', 'tom');
-console.log(employName);
