@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ffd977f9-d006-44b9-b4b0-9e93470edb85" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/index.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/联合&amp;&amp;对象&amp;&amp;数组.md" beforeDir="false" afterPath="$PROJECT_DIR$/联合&amp;&amp;对象&amp;&amp;数组.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3.函数的类型.md" beforeDir="false" afterPath="$PROJECT_DIR$/3.函数的类型.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +34,16 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
   </component>
+  <component name="RunManager">
+    <configuration name="index.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/index.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.index.js" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -45,13 +56,35 @@
       <updated>1594634046808</updated>
       <workItem from="1594634048217" duration="7293000" />
       <workItem from="1595134605549" duration="125000" />
+      <workItem from="1595923402271" duration="2170000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/index.js" />
+      </list>
+    </option>
   </component>
   <component name="WindowStateProjectService">
+    <state width="1419" height="226" key="GridCell.Tab.0.bottom" timestamp="1595925500935">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1419" height="226" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1595925500935" />
+    <state width="1419" height="226" key="GridCell.Tab.0.center" timestamp="1595925500935">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1419" height="226" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1595925500935" />
+    <state width="1419" height="226" key="GridCell.Tab.0.left" timestamp="1595925500934">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1419" height="226" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1595925500934" />
+    <state width="1419" height="226" key="GridCell.Tab.0.right" timestamp="1595925500935">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1419" height="226" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1595925500935" />
     <state x="385" y="213" width="670" height="676" key="search.everywhere.popup" timestamp="1594713117738">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
