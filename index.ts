@@ -8,3 +8,7 @@ function reverse(x) {
         return Number(x.toString().split('').reverse().join(''))
     }
 }
+
+function getToken(key: string): any {
+    return importValue.get(key) ? importValue.get(key) : (window as any).cache[key]
+}
