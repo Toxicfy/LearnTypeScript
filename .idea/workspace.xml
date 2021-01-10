@@ -20,9 +20,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ffd977f9-d006-44b9-b4b0-9e93470edb85" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/4. 类型断言.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1. 基础数据类型.md" beforeDir="false" afterPath="$PROJECT_DIR$/1. 基础数据类型.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.联合&amp;&amp;对象&amp;&amp;数组.md" beforeDir="false" afterPath="$PROJECT_DIR$/2.联合&amp;&amp;对象&amp;&amp;数组.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3.函数的类型.md" beforeDir="false" afterPath="$PROJECT_DIR$/3.函数的类型.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.ts" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,13 +46,19 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedIndex" value="1" />
+  </component>
   <component name="ProjectId" id="1ecwAi5G4obb7p17mq8qM689Bba" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -53,6 +66,7 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="terminal" />
     <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager">
     <configuration name="index.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/index.js" working-dir="$PROJECT_DIR$">
@@ -64,7 +78,7 @@
       </list>
     </recent_temporary>
   </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="false" />
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -79,16 +93,16 @@
       <workItem from="1595134605549" duration="125000" />
       <workItem from="1595923402271" duration="2170000" />
       <workItem from="1596012649412" duration="2194000" />
+      <workItem from="1600051481692" duration="58000" />
+      <workItem from="1603267203921" duration="981000" />
+      <workItem from="1603422452738" duration="5329000" />
+      <workItem from="1603861267355" duration="57000" />
+      <workItem from="1609766058205" duration="13690000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-    <option name="exactExcludedFiles">
-      <list>
-        <option value="$PROJECT_DIR$/index.js" />
-      </list>
-    </option>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -100,35 +114,9 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
-  <component name="WindowStateProjectService">
-    <state x="718" y="379" key="FileChooserDialogImpl" timestamp="1596014660398">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="718" y="379" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1596014660398" />
-    <state width="1419" height="226" key="GridCell.Tab.0.bottom" timestamp="1595925500935">
-      <screen x="0" y="23" width="1440" height="877" />
-    </state>
-    <state width="1419" height="226" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1595925500935" />
-    <state width="1419" height="226" key="GridCell.Tab.0.center" timestamp="1595925500935">
-      <screen x="0" y="23" width="1440" height="877" />
-    </state>
-    <state width="1419" height="226" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1595925500935" />
-    <state width="1419" height="226" key="GridCell.Tab.0.left" timestamp="1595925500934">
-      <screen x="0" y="23" width="1440" height="877" />
-    </state>
-    <state width="1419" height="226" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1595925500934" />
-    <state width="1419" height="226" key="GridCell.Tab.0.right" timestamp="1595925500935">
-      <screen x="0" y="23" width="1440" height="877" />
-    </state>
-    <state width="1419" height="226" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1595925500935" />
-    <state x="439" y="270" key="SettingsEditor" timestamp="1596014694837">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="439" y="270" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1596014694837" />
-    <state x="385" y="213" width="670" height="676" key="search.everywhere.popup" timestamp="1594713117738">
-      <screen x="0" y="23" width="1440" height="877" />
-    </state>
-    <state x="385" y="213" width="670" height="676" key="search.everywhere.popup/0.23.1440.877@0.23.1440.877" timestamp="1594713117738" />
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
